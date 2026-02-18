@@ -1,4 +1,4 @@
-- MCP Timer -
+## MCP Timer ##
 
 - What your server does and why it’s useful -
 This MCP server provides a simple timer tool where you can start a timer you name. It is useful for anytime you need specific timers to track how long you spend on different tasks.
