@@ -7,7 +7,7 @@ Claude was super helpful in the process of this build and took my prompts and ma
 
   Effective prompts used:
   1. This was my big initial prompt to make a MCP server with all my specifications.
-    `Create a simple MCP server for Claude Code.
+    Create a simple MCP server for Claude Code.
      The server should have two tools:
         1. "start_timer"
           - Accepts: name (string)
@@ -21,7 +21,7 @@ Claude was super helpful in the process of this build and took my prompts and ma
       2. index.js with the complete server code
       3. Clear comments explaining what each part does
     Use simple file storage.
-    Keep it simple - this is my first MCP server.`
+    Keep it simple - this is my first MCP server.
 
 2. This was to tell claude I wanted to add a new MCP server, how to start it, and to be able to use it.
     `claude mcp add --transport stdio my-first-mcp -- node C:\Users\Lauren\mcp-projects\my-first-mcp\index.js`
