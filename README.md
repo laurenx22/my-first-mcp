@@ -10,6 +10,7 @@ This MCP server provides a simple timer tool where you can start a timer you nam
 3. Start server with "node index.js"
 4. Connect to Claude
 5. Use MCP confirguration: claude mcp add --transport stdio my-first-mcp -- node /full/path/to/my-first-mcp/index.js
+6. Type /mcp into Claude to check connection
 
 - 2-3 usage examples -
 1. You are trying to see how long it takes you to do a specific tasks.
