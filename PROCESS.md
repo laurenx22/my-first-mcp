@@ -1,4 +1,4 @@
-# What I built: Describe your server and design decisions #
+## What I built: Describe your server and design decisions ##
 I built a simple MCP server that is a timer tool. It has two tools with "start_timer" and "stop_timer." The start timer tool starts a timer for a named task and saves the start time to a file. The stop timer tool stops the timer and returns the elapsed time.
 I decided to keep it really simple and followed the description in the assignment instructions.
 
@@ -28,15 +28,15 @@ Claude was super helpful in the process of this build and took my prompts and ma
     `claude mcp add --transport stdio my-first-mcp -- node C:\Users\Lauren\mcp-projects\my-first-mcp\index.js`
 
 
-### Debugging journey: Describe errors you encountered and your debugging process ###
+## Debugging journey: Describe errors you encountered and your debugging process ##
   I did not run into any big errors while doing this. My main debugging was just to make sure my file paths were correct and pushing to github correctly.
 
 
-### How MCP works: Explain the MCP architecture in your own words ###
+## How MCP works: Explain the MCP architecture in your own words ##
 MCP servers are tools that you can connect to Claude (or other MCP compatible tools). Claude can connect to the MCP server and then use its functions
 
 
-## What I’d do differently: Reflections on your approach ###
+## What I’d do differently: Reflections on your approach ##
 I think my approach worked well. I wanted to be very specific in my prompt and from that I got what I was looking for. Next time I would want to make something a little more complicated so it would have more functionality.
 There is not much you can do when it is only a stopwatch timer that can only count up.
 
