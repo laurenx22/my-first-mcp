@@ -2,7 +2,7 @@
 I built a simple MCP server that is a timer tool. It has two tools with "start_timer" and "stop_timer." The start timer tool starts a timer for a named task and saves the start time to a file. The stop timer tool stops the timer and returns the elapsed time.
 I decided to keep it really simple and followed the description in the assignment instructions.
 
-### How Claude Code helped: 2-3 examples of effective prompts ###
+## How Claude Code helped: 2-3 examples of effective prompts ##
 Claude was super helpful in the process of this build and took my prompts and made the MCP server.
 
   Effective prompts used:
@@ -36,7 +36,7 @@ Claude was super helpful in the process of this build and took my prompts and ma
 MCP servers are tools that you can connect to Claude (or other MCP compatible tools). Claude can connect to the MCP server and then use its functions
 
 
-- What I’d do differently: Reflections on your approach -
+## What I’d do differently: Reflections on your approach ###
 I think my approach worked well. I wanted to be very specific in my prompt and from that I got what I was looking for. Next time I would want to make something a little more complicated so it would have more functionality.
 There is not much you can do when it is only a stopwatch timer that can only count up.
 
