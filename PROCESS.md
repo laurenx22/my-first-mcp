@@ -1,5 +1,5 @@
 - What I built: Describe your server and design decisions - 
-I built a simple MCP server that is a timer took. It has two tools with "start_timer" and "stop_timer." The start timer tool starts a timer for a named task and saves the start time to a file. The stop timer tool stops the timer and returns the elapsed time.
+I built a simple MCP server that is a timer tool. It has two tools with "start_timer" and "stop_timer." The start timer tool starts a timer for a named task and saves the start time to a file. The stop timer tool stops the timer and returns the elapsed time.
 I decided to keep it really simple and followed the description in the assignment instructions.
 
 - How Claude Code helped: 2-3 examples of effective prompts - 
